@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\kafon\source\repos\Project2\Source.cpp(16,2): warning C4144:  '>': relational expression as switch expression
+C:\Users\kafon\source\repos\Project2\Source.cpp(21,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kafon\source\repos\Project2\Source.cpp(26,2): warning C4808:  case '2' is not a valid value for switch condition of type 'bool'
+  Project2.vcxproj -> C:\Users\kafon\source\repos\Project2\Debug\Project2.exe
